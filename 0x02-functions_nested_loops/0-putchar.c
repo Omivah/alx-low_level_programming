@@ -1,4 +1,4 @@
-#include "Linear.h"
+#include "main.h"
 /**
  * main - Entry point
  *
@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-	char *sh = "Linear";
+	char *sh = "main";
 
 	while (*sh)
 	{
